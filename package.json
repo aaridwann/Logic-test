@@ -1,0 +1,15 @@
+{
+  "name": "logic-test",
+  "version": "1.0.0",
+  "description": "Logic test Lawencon Corp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ridwan Firmansyah",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
